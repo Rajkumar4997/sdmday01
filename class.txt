@@ -19,4 +19,6 @@ changes are done
 
 student branch
 
-teacher branch
+
+ajay is student
+>>>>>>> student
